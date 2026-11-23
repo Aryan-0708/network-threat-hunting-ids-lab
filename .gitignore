@@ -1,0 +1,12 @@
+# Private packet captures
+evidence/pcaps/
+
+# Private Suricata logs
+evidence/suricata/eve.json
+
+# Original rules containing actual lab IPs
+evidence/suricata/local.rules
+
+# Python generated cache
+__pycache__/
+*.pyc
